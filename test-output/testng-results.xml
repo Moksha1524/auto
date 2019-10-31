@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14714" started-at="2019-10-25T09:03:55Z" finished-at="2019-10-25T09:04:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14714" started-at="2019-10-25T09:03:55Z" finished-at="2019-10-25T09:04:10Z">
+      <class name="Demo2.First">
+        <test-method status="PASS" signature="createTweet()[pri:0, instance:Demo2.First@2286778]" name="createTweet" duration-ms="779" started-at="2019-10-25T14:34:01Z" finished-at="2019-10-25T14:34:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTweet -->
+      </class> <!-- Demo2.First -->
+      <class name="Demo2.Hashtag">
+        <test-method status="PASS" signature="getHastag()[pri:0, instance:Demo2.Hashtag@13a5fe33]" name="getHastag" duration-ms="6671" started-at="2019-10-25T14:34:03Z" finished-at="2019-10-25T14:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHastag -->
+      </class> <!-- Demo2.Hashtag -->
+      <class name="Demo2.Search">
+        <test-method status="PASS" signature="searchTweet()[pri:0, instance:Demo2.Search@6fc6f14e]" name="searchTweet" duration-ms="3684" started-at="2019-10-25T14:33:55Z" finished-at="2019-10-25T14:33:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTweet -->
+      </class> <!-- Demo2.Search -->
+      <class name="Demo2.Block">
+        <test-method status="PASS" signature="blockUser()[pri:0, instance:Demo2.Block@527740a2]" name="blockUser" duration-ms="578" started-at="2019-10-25T14:34:03Z" finished-at="2019-10-25T14:34:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blockUser -->
+      </class> <!-- Demo2.Block -->
+      <class name="Demo2.DisplayingUsername">
+        <test-method status="PASS" signature="searchTweet()[pri:0, instance:Demo2.DisplayingUsername@5abca1e0]" name="searchTweet" duration-ms="1722" started-at="2019-10-25T14:33:59Z" finished-at="2019-10-25T14:34:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTweet -->
+      </class> <!-- Demo2.DisplayingUsername -->
+      <class name="Demo2.Bangloreweather">
+        <test-method status="PASS" signature="getWeather()[pri:0, instance:Demo2.Bangloreweather@6d7b4f4c]" name="getWeather" duration-ms="649" started-at="2019-10-25T14:34:02Z" finished-at="2019-10-25T14:34:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeather -->
+      </class> <!-- Demo2.Bangloreweather -->
+      <class name="Demo2.ListTweetsofUser">
+        <test-method status="PASS" signature="getList()[pri:0, instance:Demo2.ListTweetsofUser@4e9ba398]" name="getList" duration-ms="562" started-at="2019-10-25T14:34:01Z" finished-at="2019-10-25T14:34:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getList -->
+      </class> <!-- Demo2.ListTweetsofUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
